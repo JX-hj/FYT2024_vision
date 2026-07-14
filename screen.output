@@ -1,0 +1,13 @@
+[INFO] [launch]: All log files can be found below /tmp/2026-03-21-01-31-12-809591-rm-M9-PRO-13696
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [robot_state_publisher-1]: process started with pid [13700]
+[INFO] [robot_state_publisher-2]: process started with pid [13702]
+[robot_state_publisher-1] [WARN] [1774027872.979228144] [kdl_parser]: Converting unknown joint type of joint 'gimbal_joint' into a fixed joint
+[robot_state_publisher-1] [INFO] [1774027872.979264686] [robot_state_publisher]: got segment camera_link
+[robot_state_publisher-1] [INFO] [1774027872.979290705] [robot_state_publisher]: got segment camera_optical_frame
+[robot_state_publisher-1] [INFO] [1774027872.979294325] [robot_state_publisher]: got segment gimbal_link
+[robot_state_publisher-1] [INFO] [1774027872.979296940] [robot_state_publisher]: got segment odom
+[robot_state_publisher-1] [INFO] [1774027872.979301060] [robot_state_publisher]: Floating joint. Not adding segment from odom to gimbal_link.
+[robot_state_publisher-2] [INFO] [1774027872.979525802] [wsz.robot_state_publisher]: got segment base_footprint
+[robot_state_publisher-2] [INFO] [1774027872.979569028] [wsz.robot_state_publisher]: got segment base_link
+[robot_state_publisher-2] [INFO] [1774027872.979574297] [wsz.robot_state_publisher]: got segment livox_frame
